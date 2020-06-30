@@ -20,7 +20,7 @@
 
 ```console
 
-$ruby 8ball.rb
+foo@bar:~$ ruby 8ball.rb
 
 Привет, дорогой друг. Отвечаю на твой вопрос...
 
